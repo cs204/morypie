@@ -1,0 +1,22 @@
+body {
+    background-color:#b0b0f9;
+    text-align:justify;
+}
+.container{overflow:hidden;}
+.box{white-space:nowrap}
+.box div{display:inline-block;}
+#bcolor {
+    background-color:#e0e1fb;
+}
+a {
+    color:red;
+}
+a: visited{
+    color:black;
+}
+a: hover{
+    color:Yellow;
+}
+p {
+    text-indent: 20px;
+}
